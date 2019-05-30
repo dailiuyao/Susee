@@ -1,0 +1,7 @@
+##  在MobaXterm上创建vncs新端口
+1.打开MobaXterm,点击New session，在Remote host中输入10.20.20.46，确认。
+2.输入账号，密码，输入vi.cshrc，输入vncs，即可创建vncs端口n。
+3.在vncs中输入server adress：10.20.20.46：n，确认，输入密码即可登陆。
+
+##  Layout Tutorial
+1.在vncs端口中打开virtuoso,选择Tools-> LibraryManager，
